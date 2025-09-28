@@ -28,9 +28,8 @@ The main objective was to understand how different user types (Subscribers vs Cu
   - Overall duration differences between the two user groups.  
 
 ## Key Findings
-- **Subscribers** (majority of riders) mainly use the system for weekday commuting, with clear peaks during morning and evening rush hours.  
-- **Customers** (occasional riders) take longer trips, especially on weekends, reflecting a leisure-oriented usage.  
-- The analysis highlights how the system supports two distinct usage types: commuting and recreation.  
+- Subscribers (majority of riders) mainly use the system for weekday commuting, with clear peaks during morning and evening rush hours.  
+- Customers (occasional riders) take longer trips, especially on weekends, reflecting a leisure-oriented usage.   
 
 ## Deliverables
 - Jupyter Notebook with exploratory analysis (Part 1).  
