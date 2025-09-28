@@ -5,8 +5,8 @@ This project was completed as part of the Udacity Data Analyst Nanodegree Progra
 The dataset comes from the Ford GoBike bike-sharing system in the San Francisco Bay Area, covering more than 183,000 trips in February 2019.  
 
 The project was structured in two parts:
-1. Exploratory Analysis: freely explore the dataset to identify patterns and generate insights.  
-2. Explanatory Analysis: focus on key findings and communicate them effectively through clear, audience-friendly visualizations.  
+**1. Exploratory Analysis**: freely explore the dataset to identify patterns and generate insights.  
+**2. Explanatory Analysis**: focus on key findings and communicate them effectively through clear, audience-friendly visualizations.  
 
 The main objective was to understand how different user types (Subscribers vs Customers) use the service in terms of trip duration, timing, and day of the week.
 
